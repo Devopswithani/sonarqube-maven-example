@@ -52,6 +52,8 @@
                 <sonar.host.url>
                     http://3.141.9.48:9000/
                 </sonar.host.url>
+                     sonar.login=admin
+                     sonar.password=Anianu123#@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
             </properties>
